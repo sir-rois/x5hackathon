@@ -14,4 +14,4 @@ pyaudio = "*"
 python_version = "3.7"
 
 [scripts]
-server = "python service test"
+server = "python service.py input"
